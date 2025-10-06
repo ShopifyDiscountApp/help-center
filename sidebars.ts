@@ -14,6 +14,7 @@ const sidebars: SidebarsConfig = {
     'articles/article-2',
     'articles/article-3',
     'articles/article-4',
+    'privacy-policy',
   ],
 };
 

@@ -4,28 +4,49 @@ sidebar_position: 2
 
 # Assign Types
 
-In Optionify, **Option Sets** allow you to group product options together for easier management and assignment across multiple products.
+Assigning option sets to products in Shopify can be flexible and powerful with our Assign Types feature. This allows store owners to control exactly which products receive which option sets.
 
-## Assign Types
+## 1. All Products
 
-When assigning Option Sets to products, there are several assignment types:
+This option applies the selected option set to all products in your store.
 
-1. **Manual Assignment**
-   - Assign Option Sets to products one by one.
-   - Use this type when you want precise control over each product.
+![Assign to all products](/img/all_product.png)
 
-2. **Automatic Assignment**
-   - Automatically assign Option Sets based on product attributes.
-   - Saves time when handling large catalogs.
+Perfect for when you want uniform options across your entire catalog.
 
-3. **Conditional Assignment**
-   - Set rules to assign Option Sets only if certain conditions are met.
-   - Example: Assign a "Color Options" set only to products in the "T-Shirts" category.
+## 2. Collection
 
----
+Apply the option set to all products within a specific collection.
 
-## Tips
+![Assign to collections](/img/assign_collection.png)
 
-- Always review assigned Option Sets in your product list to avoid conflicts.
-- Use **Automatic Assignment** for new products to maintain consistency.
-- Combine **Conditional** and **Automatic** types for the most efficient workflow.
+Useful if you have categories like "T-Shirts" or "Shoes" and want all items in that collection to share the same options.
+
+## 3. Specific Products
+
+Choose individual products to assign the option set.
+
+![Assign to individual products](/img/assign_invidual.png)
+
+Ideal for customizing selected products without affecting the rest of your catalog.
+
+## 4. Tag
+
+Assign the option set to all products with a specific tag.
+
+![Assign by tags](/img/assign_tag.png)
+
+This is helpful for dynamically managing products that share characteristics but are not in the same collection, such as "Sale", "New Arrival", or "Custom Design".
+
+## Conclusion
+
+The Assign Types feature provides full flexibility in how option sets are applied:
+
+- Quickly apply to all products
+- Target entire collections
+- Select specific products, or
+- Use tags for dynamic grouping
+
+
+
+This ensures that Shopify store owners can manage variants efficiently, keeping their catalog organized and their customers' shopping experience smooth.
